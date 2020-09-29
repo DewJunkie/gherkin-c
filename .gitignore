@@ -5,3 +5,7 @@ acceptance/
 .built
 .compared
 .run
+.vs/
+build/
+build-wsl/
+out/
